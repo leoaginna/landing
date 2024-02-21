@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  transition: 0.3s ease;
+  margin: 40px auto;
+  background-color:rgb(228, 194, 150);
+  color: rgb(14, 15, 15);
+  padding: 8px;
+  border-radius: 7px;
+}
+
+a:hover {
+  color: rgb(233, 237, 231);
+}
